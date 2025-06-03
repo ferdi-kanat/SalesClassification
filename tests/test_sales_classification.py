@@ -1,7 +1,12 @@
 import unittest
 import pandas as pd
 import numpy as np
-from sales_classification import specificity_score
+import sys
+import os
+
+# Add the src directory to the Python path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from src.sales_classification import specificity_score
 from sklearn.metrics import confusion_matrix
 
 class TestSalesClassification(unittest.TestCase):
