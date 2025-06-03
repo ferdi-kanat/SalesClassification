@@ -17,7 +17,10 @@ import random
 from deap import base, creator, tools, algorithms
 
 # Pandas gelecek sürüm uyarılarını engelleme
-pd.set_option('future.no_silent_downcasting', True)
+try:
+    pd.set_option('future.no_silent_downcasting', True)
+except:
+    pass  # Eski pandas sürümlerinde bu seçenek mevcut değil
 
 # DataFrame görüntüleme ayarları
 pd.set_option('display.max_columns', None)  # Tüm sütunları göster
