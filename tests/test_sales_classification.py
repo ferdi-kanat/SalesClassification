@@ -24,7 +24,7 @@ class TestSalesClassification(unittest.TestCase):
     def test_data_loading(self):
         """Test if the data file can be loaded and has the expected columns."""
         try:
-            df = pd.read_csv('../New_1000_Sales_Records.csv')
+            df = pd.read_csv('New_1000_Sales_Records.csv')
             required_columns = [
                 'Region', 'Item Type', 'Sales Channel', 'Order Priority',
                 'Units Sold', 'Unit Price', 'Unit Cost', 'Total Revenue',
