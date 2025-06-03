@@ -139,10 +139,9 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ✍️ Authors
+## ✍️ Author
 
 - **Ferdi Kanat** - _Initial work_ - [GitHub Profile](https://github.com/ferdi-kanat)
-- **Ömer Gün** - _Initial work_ - [GitHub Profile](https://github.com/ömergün)
 
 ## 🙏 Acknowledgments
 
@@ -154,5 +153,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions and feedback:
 
-- Email: your.email@example.com
+- Email: 200101038@ogrenci.yalova.edu.tr
 - Project Link: https://github.com/ferdi-kanat/SalesClassification
