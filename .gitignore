@@ -25,6 +25,7 @@ var/
 
 # Data files
 *.csv
+!New_1000_Sales_Records.csv
 
 # Generated files
 *.png
