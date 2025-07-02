@@ -8,7 +8,7 @@
 
 ## 📋 Overview
 
-This project implements an advanced machine learning pipeline for sales profit prediction using various classification algorithms. It features automated feature selection through genetic algorithms and dimensionality reduction using PCA, providing comprehensive performance analysis and visualizations.
+This project implements an advanced machine learning pipeline for sales profit prediction using various classification algorithms. It features automated feature selection through genetic algorithms and dimensionality reduction using PCA, providing comprehensive performance analysis and visualizations. The results are interpreted in Turkish in the project_report.docx file.
 
 ## 🚀 Key Features
 
@@ -49,6 +49,9 @@ This project implements an advanced machine learning pipeline for sales profit p
   - Decision tree structures
   - PCA variance plots
   - Performance comparison charts
+
+## 📊 Documented Results
+The results are interpreted in Turkish in the project_report.docx file.
 
 ## 📊 Sample Results
 
